@@ -10,4 +10,4 @@ file. Once the file has downloaded, you click the upload button to decrypt. It w
 set initially when uploading the file.
 
 **Install**
-Simple fork the repo and run the index.html file.
+Simply fork the repo and run the index.html file.
